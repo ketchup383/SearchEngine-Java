@@ -1,0 +1,6 @@
+# Compiled output
+out/
+
+# IDE files (IntelliJ)
+.idea/workspace.xml
+.idea/tasks.xml
